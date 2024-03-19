@@ -24,42 +24,89 @@
 	
 	  <div class="h-entry">
 		
-			<h1><a href="https://alaborn.micro.blog/2024/03/03/kaiser-chiefs-beautiful.html">Kaiser Chiefs - Beautiful Girl</a></h1>
+			<h1><a href="https://alaborn.micro.blog/2024/03/19/140807.html">Ну и где альбом, Вова?</a></h1>
 		
 
-		<a href="https://alaborn.micro.blog/2024/03/03/kaiser-chiefs-beautiful.html" class="u-url"><time class="dt-published" datetime="2024-03-03 00:37:59 &#43;0300">Mar 3, 2024</time></a>
+		<a href="https://alaborn.micro.blog/2024/03/19/140807.html" class="u-url"><time class="dt-published" datetime="2024-03-19 14:08:07 &#43;0300">Mar 19, 2024</time></a>
 
 		<div class="e-content">
-			 <p><!-- raw HTML omitted --> Kaiser Chiefs<!-- raw HTML omitted -->
-playcount: 14</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
 	
 	  <div class="h-entry">
 		
-			<h1><a href="https://alaborn.micro.blog/2024/03/03/nothing-but-thieves.html">Nothing But Thieves - Oh No :: He Said What?</a></h1>
+			<h1><a href="https://alaborn.micro.blog/2024/03/05/105201.html">Полезная заметка</a></h1>
 		
 
-		<a href="https://alaborn.micro.blog/2024/03/03/nothing-but-thieves.html" class="u-url"><time class="dt-published" datetime="2024-03-03 00:37:59 &#43;0300">Mar 3, 2024</time></a>
+		<a href="https://alaborn.micro.blog/2024/03/05/105201.html" class="u-url"><time class="dt-published" datetime="2024-03-05 10:52:01 &#43;0300">Mar 5, 2024</time></a>
 
 		<div class="e-content">
-			 <p><!-- raw HTML omitted --> Nothing But Thieves<!-- raw HTML omitted -->
-playcount: 19</p>
+			 <!-- raw HTML omitted -->
 
 		</div>
 	  </div>
 	
 	  <div class="h-entry">
 		
-			<h1><a href="https://alaborn.micro.blog/2024/03/03/tinlicker-nowhere-to.html">Tinlicker - Nowhere To Go (feat. Brian Molko)</a></h1>
-		
 
-		<a href="https://alaborn.micro.blog/2024/03/03/tinlicker-nowhere-to.html" class="u-url"><time class="dt-published" datetime="2024-03-03 00:37:59 &#43;0300">Mar 3, 2024</time></a>
+		<a href="https://alaborn.micro.blog/2024/03/05/105000.html" class="u-url"><time class="dt-published" datetime="2024-03-05 10:50:00 &#43;0300">Mar 5, 2024</time></a>
 
 		<div class="e-content">
-			 <p><!-- raw HTML omitted --> Tinlicker<!-- raw HTML omitted -->
-playcount: 17</p>
+			 <p>Одно из самых полезных знаний, пригодившихся мне в жизни: инструкция по применению к аптечным препаратам в упаковке находится со стороны, где указана дата изготовления и срок годности.</p>
+<p>ТЕПЕРЬ Я ОТКРЫВАЮ УПАКОВКУ С ТАБЛЕТКАМИ И НЕ НАПАРЫВАЮСЬ НА ЭТУ ЧЁРТОВУ СЛОЖЕННУЮ БУМАЖКУ</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://alaborn.micro.blog/2024/03/04/155755.html">«Виселица» на питоне</a></h1>
+		
+
+		<a href="https://alaborn.micro.blog/2024/03/04/155755.html" class="u-url"><time class="dt-published" datetime="2024-03-04 15:57:55 &#43;0300">Mar 4, 2024</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+<h1 id="список-слов-для-угадывания">Список слов для угадывания</h1>
+<p>words = ['python', 'java', 'kotlin', 'javascript']</p>
+<h1 id="выбираем-случайное-слово-из-списка">Выбираем случайное слово из списка</h1>
+<p>secret_word = random.choice(words)</p>
+<h1 id="создаем-строку-из-подчеркиваний-на-месте-букв">Создаем строку из подчеркиваний на месте букв</h1>
+<p>displayed = ['_'] * len(secret_word)</p>
+<h1 id="количество-попыток">Количество попыток</h1>
+<p>attempts = 10</p>
+<p>print('Добро пожаловать в игру &quot;Виселица&quot;!')</p>
+<h1 id="игра-продолжается-пока-есть-попытки-и-слово-не-угадано">Игра продолжается, пока есть попытки и слово не угадано</h1>
+<p>while attempts &gt; 0 and '_' in displayed:
+print('\nСлово: ', ' '.join(displayed))
+print(f'Осталось попыток: {attempts}')
+guess = input('Введите букву: ').lower()</p>
+<pre><code># Обработка случая, когда вводят более одной буквы или не буквы
+if len(guess) != 1 or not guess.isalpha():
+    print(&amp;#039;Пожалуйста, введите одну букву алфавита.&amp;#039;)
+    continue
+
+# Проверяем, есть ли буква в слове
+if guess in secret_word:
+    for i, letter in enumerate(secret_word):
+        if letter == guess:
+            displayed[i] = letter
+else:
+    print(&amp;#039;Неверно! Такой буквы нет в слове.&amp;#039;)
+    attempts -= 1
+
+# Проверяем, не была ли буква уже угадана или предложена
+if guess in displayed:
+    print(&amp;#039;Вы уже угадали эту букву.&amp;#039;)
+</code></pre>
+<h1 id="проверяем-и-сообщаем-исход-игры">Проверяем и сообщаем исход игры</h1>
+<p>if '_' not in displayed:
+print('\nПоздравляем, вы угадали слово!')
+else:
+print('\nК сожалению, ваши попытки закончились. Игра окончена.')</p>
+<p>print(f'Секретное слово было: &quot;{secret_word}&quot;')<!-- raw HTML omitted --><!-- raw HTML omitted --></p>
 
 		</div>
 	  </div>
