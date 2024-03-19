@@ -7,28 +7,36 @@
 	"items": [
 		
 			{
-				"id": "http://alaborn.micro.blog/2024/03/03/kaiser-chiefs-beautiful.html",
-				"title": "Kaiser Chiefs - Beautiful Girl",
-				"content_html": "<p><!-- raw HTML omitted --> Kaiser Chiefs<!-- raw HTML omitted -->\nplaycount: 14</p>\n",
-				"content_text": "<a href=\"https://www.last.fm/music/Kaiser+Chiefs\"> Kaiser Chiefs</a>\n                    playcount: 14\n",
-				"date_published": "2024-03-03T00:37:59+03:00",
-				"url": "https://alaborn.micro.blog/2024/03/03/kaiser-chiefs-beautiful.html"
+				"id": "http://alaborn.micro.blog/2024/03/19/140807.html",
+				"title": "Ну и где альбом, Вова?",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><i>Анонсировал, анонсировал, да не выанонсировал.</i></p>\n<div class=\"e2-text-picture\">\n<img src=\"https://tatuu.ru/pictures/Business-Customs-Cover-Art-1500.jpg\" width=\"1500\" height=\"1500\" alt=\"Tatuuma — Business Customs (2024)\" />\n</div>\n<p>Работа над альбомом «Business Customs», о котором я <a href=\"https://tatuu.ru/all/sleduyuschiy-albom-tatuumy-business-customs/\">рассказал</a> ещё в ноябре, конечно, затянулась, но не остановилась — процесс идёт. Можно сказать, даже <a href=\"https://tatuu.ru/all/trek-list-business-customs/\">кипит</a>.</p>\n<p>Сейчас пластинка на финишной прямой. Осталось записать пару вокальных партий и много-много вокальных семплов.</p>\n<p>Обещаю, это будет не просто альбом, это будет АЛЬБОМ.</p>\n",
+				"date_published": "2024-03-19T14:08:07+03:00",
+				"url": "https://alaborn.micro.blog/2024/03/19/140807.html"
 			},
 			{
-				"id": "http://alaborn.micro.blog/2024/03/03/nothing-but-thieves.html",
-				"title": "Nothing But Thieves - Oh No :: He Said What?",
-				"content_html": "<p><!-- raw HTML omitted --> Nothing But Thieves<!-- raw HTML omitted -->\nplaycount: 19</p>\n",
-				"content_text": "<a href=\"https://www.last.fm/music/Nothing+But+Thieves\"> Nothing But Thieves</a>\n                    playcount: 19\n",
-				"date_published": "2024-03-03T00:37:59+03:00",
-				"url": "https://alaborn.micro.blog/2024/03/03/nothing-but-thieves.html"
+				"id": "http://alaborn.micro.blog/2024/03/05/105201.html",
+				"title": "Полезная заметка",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Одно из самых полезных знаний, пригодившихся мне в жизни: инструкция по применению к аптечным препаратам в упаковке находится со стороны, где указана дата изготовления и срок годности.</p>\n<p>Теперь я открываю упаковку с таблетками и не напарываюсь на эту чёртову сложенную бумажку.</p>\n",
+				"date_published": "2024-03-05T10:52:01+03:00",
+				"url": "https://alaborn.micro.blog/2024/03/05/105201.html"
 			},
 			{
-				"id": "http://alaborn.micro.blog/2024/03/03/tinlicker-nowhere-to.html",
-				"title": "Tinlicker - Nowhere To Go (feat. Brian Molko)",
-				"content_html": "<p><!-- raw HTML omitted --> Tinlicker<!-- raw HTML omitted -->\nplaycount: 17</p>\n",
-				"content_text": "<a href=\"https://www.last.fm/music/Tinlicker\"> Tinlicker</a>\n                    playcount: 17\n",
-				"date_published": "2024-03-03T00:37:59+03:00",
-				"url": "https://alaborn.micro.blog/2024/03/03/tinlicker-nowhere-to.html"
+				"id": "http://alaborn.micro.blog/2024/03/05/105000.html",
+				
+				"content_html": "<p>Одно из самых полезных знаний, пригодившихся мне в жизни: инструкция по применению к аптечным препаратам в упаковке находится со стороны, где указана дата изготовления и срок годности.</p>\n<p>ТЕПЕРЬ Я ОТКРЫВАЮ УПАКОВКУ С ТАБЛЕТКАМИ И НЕ НАПАРЫВАЮСЬ НА ЭТУ ЧЁРТОВУ СЛОЖЕННУЮ БУМАЖКУ</p>\n",
+				"content_text": "Одно из самых полезных знаний, пригодившихся мне в жизни: инструкция по применению к аптечным препаратам в упаковке находится со стороны, где указана дата изготовления и срок годности.\n\nТЕПЕРЬ Я ОТКРЫВАЮ УПАКОВКУ С ТАБЛЕТКАМИ И НЕ НАПАРЫВАЮСЬ НА ЭТУ ЧЁРТОВУ СЛОЖЕННУЮ БУМАЖКУ\n",
+				"date_published": "2024-03-05T10:50:00+03:00",
+				"url": "https://alaborn.micro.blog/2024/03/05/105000.html"
+			},
+			{
+				"id": "http://alaborn.micro.blog/2024/03/04/155755.html",
+				"title": "«Виселица» на питоне",
+				"content_html": "<!-- raw HTML omitted -->\n<h1 id=\"список-слов-для-угадывания\">Список слов для угадывания</h1>\n<p>words = ['python', 'java', 'kotlin', 'javascript']</p>\n<h1 id=\"выбираем-случайное-слово-из-списка\">Выбираем случайное слово из списка</h1>\n<p>secret_word = random.choice(words)</p>\n<h1 id=\"создаем-строку-из-подчеркиваний-на-месте-букв\">Создаем строку из подчеркиваний на месте букв</h1>\n<p>displayed = ['_'] * len(secret_word)</p>\n<h1 id=\"количество-попыток\">Количество попыток</h1>\n<p>attempts = 10</p>\n<p>print('Добро пожаловать в игру &quot;Виселица&quot;!')</p>\n<h1 id=\"игра-продолжается-пока-есть-попытки-и-слово-не-угадано\">Игра продолжается, пока есть попытки и слово не угадано</h1>\n<p>while attempts &gt; 0 and '_' in displayed:\nprint('\\nСлово: ', ' '.join(displayed))\nprint(f'Осталось попыток: {attempts}')\nguess = input('Введите букву: ').lower()</p>\n<pre><code># Обработка случая, когда вводят более одной буквы или не буквы\nif len(guess) != 1 or not guess.isalpha():\n    print(&amp;#039;Пожалуйста, введите одну букву алфавита.&amp;#039;)\n    continue\n\n# Проверяем, есть ли буква в слове\nif guess in secret_word:\n    for i, letter in enumerate(secret_word):\n        if letter == guess:\n            displayed[i] = letter\nelse:\n    print(&amp;#039;Неверно! Такой буквы нет в слове.&amp;#039;)\n    attempts -= 1\n\n# Проверяем, не была ли буква уже угадана или предложена\nif guess in displayed:\n    print(&amp;#039;Вы уже угадали эту букву.&amp;#039;)\n</code></pre>\n<h1 id=\"проверяем-и-сообщаем-исход-игры\">Проверяем и сообщаем исход игры</h1>\n<p>if '_' not in displayed:\nprint('\\nПоздравляем, вы угадали слово!')\nelse:\nprint('\\nК сожалению, ваши попытки закончились. Игра окончена.')</p>\n<p>print(f'Секретное слово было: &quot;{secret_word}&quot;')<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<p>Говорят, каждый уважающий себя начинающий разработчик должен написать <i>калькулятор</i>. В последнее время я заметил, что вместо калькуляторов (особенно на питоне) стали писать простую игру «Виселица».</p>\n<p>Что ж. Челлендж ассептед.</p>\n<h2>Код игры «Виселица» на питоне:</h2>\n<pre class=\"e2-text-code\"><code class=\"\">import random\n\n# Список слов для угадывания\nwords = [&#039;python&#039;, &#039;java&#039;, &#039;kotlin&#039;, &#039;javascript&#039;]\n\n# Выбираем случайное слово из списка\nsecret_word = random.choice(words)\n# Создаем строку из подчеркиваний на месте букв\ndisplayed = [&#039;_&#039;] * len(secret_word)\n# Количество попыток\nattempts = 10\n\nprint(&#039;Добро пожаловать в игру &quot;Виселица&quot;!&#039;)\n\n# Игра продолжается, пока есть попытки и слово не угадано\nwhile attempts &gt; 0 and &#039;_&#039; in displayed:\n    print(&#039;\\nСлово: &#039;, &#039; &#039;.join(displayed))\n    print(f&#039;Осталось попыток: {attempts}&#039;)\n    guess = input(&#039;Введите букву: &#039;).lower()\n    \n    # Обработка случая, когда вводят более одной буквы или не буквы\n    if len(guess) != 1 or not guess.isalpha():\n        print(&#039;Пожалуйста, введите одну букву алфавита.&#039;)\n        continue\n    \n    # Проверяем, есть ли буква в слове\n    if guess in secret_word:\n        for i, letter in enumerate(secret_word):\n            if letter == guess:\n                displayed[i] = letter\n    else:\n        print(&#039;Неверно! Такой буквы нет в слове.&#039;)\n        attempts -= 1\n\n    # Проверяем, не была ли буква уже угадана или предложена\n    if guess in displayed:\n        print(&#039;Вы уже угадали эту букву.&#039;)\n    \n# Проверяем и сообщаем исход игры\nif &#039;_&#039; not in displayed:\n    print(&#039;\\nПоздравляем, вы угадали слово!&#039;)\nelse:\n    print(&#039;\\nК сожалению, ваши попытки закончились. Игра окончена.&#039;)\n\nprint(f&#039;Секретное слово было: &quot;{secret_word}&quot;&#039;)</code></pre>\n",
+				"date_published": "2024-03-04T15:57:55+03:00",
+				"url": "https://alaborn.micro.blog/2024/03/04/155755.html"
 			},
 			{
 				"id": "http://alaborn.micro.blog/2024/03/01/wwwremembernavalnyio.html",
