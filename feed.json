@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://alaborn.micro.blog/2026/03/20/brass-cassette-brass-cassette-v.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Прошлой осенью у нас с Владом вышел трек «Brass Cassette». Мы долго над ним работали и в процессе создали несколько версий. Одна из них, чуть переработанная, показалась нам интересной, и мы выпустили её отдельным релизом.</p><p>Встречайте «Brass Cassette V2»: <a href=\"https://band.link/brasscassettev2\">band.link/brasscassettev2</a></p>\n",
+				"date_published": "2026-03-20T12:30:35+03:00",
+				"url": "https://alaborn.micro.blog/2026/03/20/brass-cassette-brass-cassette-v.html"
+			},
+			{
 				"id": "http://alaborn.micro.blog/2026/03/18/placebo.html",
 				"title": "Placebo — 30",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -3618,7 +3626,7 @@
 				"id": "http://alaborn.micro.blog/2019/11/05/234318.html",
 				
 				"content_html": "<p>Привет!</p>\n<p>Как дела?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Привет!\r\n\r\nКак дела?\n\n<img src=\"uploads/2019/5309efdb34.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Привет!\r\n\r\nКак дела?\n\n<img src=\"https://cdn.uploads.micro.blog/15305/2019/5309efdb34.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-05T23:43:18+03:00",
 				"url": "https://alaborn.micro.blog/2019/11/05/234318.html"
 			}
