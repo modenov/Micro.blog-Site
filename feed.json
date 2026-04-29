@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://alaborn.micro.blog/2026/04/29/notepad-macos-opensource-intel-apple.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Офигеть!</p><p>Легендарный виндовый Notepad++ теперь доступен и на macOS благодаря open-source порту. Работает на Intel и Apple Silicon, сохраняет весь функционал Windows-версии (подсветка, плагины, макросы). Бесплатный, без рекламы, на GPL.</p><p><a href=\"https://notepad-plus-plus-mac.org/\">notepad-plus-plus-mac.org/</a></p><p><a href=\"https://notepad-plus-plus-mac.org/\">Notepad++ for Mac: Free Native macOS Code Editor</a></p><p>Notepad++ for Mac is a free, open-source, native macOS code editor. Universal Binary for Apple Silicon (M1–M5) and Intel Macs. No Wine, no Rosetta, no emulation.</p><p><img src=\"https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7kkz7quifbnujh2i4y76c5md/bafkreic4ft4g6n66ryworwkromol22arxftqaloztogy6gx5yptbpztxhy\" alt=\"\"></p>\n",
+				"date_published": "2026-04-29T13:08:00+03:00",
+				"url": "https://alaborn.micro.blog/2026/04/29/notepad-macos-opensource-intel-apple.html"
+			},
+			{
 				"id": "http://alaborn.micro.blog/2026/04/28/editors-editors-call-it-in.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
