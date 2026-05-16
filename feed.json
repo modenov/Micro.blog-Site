@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://alaborn.micro.blog/2026/05/16/122650.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Как думаете, норм плеер за свои деньги? Подумываю купить, но боюсь, вдруг звук не обрадует...</p><p><img src=\"https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7kkz7quifbnujh2i4y76c5md/bafkreiduhqikprufkpvux2mo4xwgjelkzt5xfkarbfmowuhjb7rmqlqpzu\" alt=\"\"></p>\n",
+				"date_published": "2026-05-16T12:26:50+03:00",
+				"url": "https://alaborn.micro.blog/2026/05/16/122650.html"
+			},
+			{
 				"id": "http://alaborn.micro.blog/2026/05/09/121852.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -3834,7 +3842,7 @@
 				"id": "http://alaborn.micro.blog/2019/11/05/234318.html",
 				
 				"content_html": "<p>Привет!</p>\n<p>Как дела?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Привет!\r\n\r\nКак дела?\n\n<img src=\"uploads/2019/5309efdb34.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Привет!\r\n\r\nКак дела?\n\n<img src=\"https://cdn.uploads.micro.blog/15305/2019/5309efdb34.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-05T23:43:18+03:00",
 				"url": "https://alaborn.micro.blog/2019/11/05/234318.html"
 			}
