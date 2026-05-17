@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://alaborn.micro.blog/2026/05/17/130456.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Онлайн в качестве вышел хоррор «Лики смерти» (2026), и тут я вспомнил  документалку конца 70-х с таким же названием, который я как-то \"случайно\" посмотрел на видеокассете в детстве, и эта психологическая травма иногда всплывает и наносит мне новые. Ошибки детства...</p><p>А вы что-нибудь эдакое смотрели?</p>\n",
+				"date_published": "2026-05-17T13:04:56+03:00",
+				"url": "https://alaborn.micro.blog/2026/05/17/130456.html"
+			},
+			{
+				"id": "http://alaborn.micro.blog/2026/05/17/cd-cd.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Ребят, а подскажите, если знаете, остались ли в Москве годные магазины музыкальных CD-дисков? Винил заполонил всё, но мне хотелось бы побродить офлайн и повыбирать именно компакты. Неважно, новые или БУ, главное, чтобы CD :)</p>\n",
+				"date_published": "2026-05-17T13:00:35+03:00",
+				"url": "https://alaborn.micro.blog/2026/05/17/cd-cd.html"
+			},
+			{
 				"id": "http://alaborn.micro.blog/2026/05/16/122650.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -3842,7 +3858,7 @@
 				"id": "http://alaborn.micro.blog/2019/11/05/234318.html",
 				
 				"content_html": "<p>Привет!</p>\n<p>Как дела?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Привет!\r\n\r\nКак дела?\n\n<img src=\"https://cdn.uploads.micro.blog/15305/2019/5309efdb34.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Привет!\r\n\r\nКак дела?\n\n<img src=\"uploads/2019/5309efdb34.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-05T23:43:18+03:00",
 				"url": "https://alaborn.micro.blog/2019/11/05/234318.html"
 			}
