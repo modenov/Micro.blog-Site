@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://alaborn.micro.blog/2026/06/15/freebsd-linux-gnu-macos-unix.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Я в сегодня лет узнал, что FreeBSD — это вообще не Linux, не GNU, а отдельная операционная система со своим собственным ядром. </p><p>И macOS скорее произошла от неё, а не от UNIX, как я думал раньше...</p>\n",
+				"date_published": "2026-06-15T14:42:32+03:00",
+				"url": "https://alaborn.micro.blog/2026/06/15/freebsd-linux-gnu-macos-unix.html"
+			},
+			{
 				"id": "http://alaborn.micro.blog/2026/06/14/retroarch.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -3765,14 +3773,6 @@
 				"content_text": "<p><a href=\"https://www.flickr.com/people/modenov/\">modenov</a> posted a photo:</p>\n\t\n<p><a href=\"https://www.flickr.com/photos/modenov/53147599290/\" title=\"Kazan, Republic of Tatarstan\"><img src=\"https://live.staticflickr.com/65535/53147599290_03347afe76_m.jpg\" width=\"240\" height=\"160\" alt=\"Kazan, Republic of Tatarstan\" /></a></p>\n\n<p>June in Kazan, Republic of Tatarstan, Russia</p><p><img src=\"https://live.staticflickr.com/65535/53147599290_03347afe76_b.jpg\">\n",
 				"date_published": "2023-08-28T13:04:15+03:00",
 				"url": "https://alaborn.micro.blog/2023/08/28/130415.html"
-			},
-			{
-				"id": "http://alaborn.micro.blog/2023/08/28/130414.html",
-				"title": "Kazan, Republic of Tatarstan",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p><a href=\"https://www.flickr.com/people/modenov/\">modenov</a> posted a photo:</p>\n\t\n<p><a href=\"https://www.flickr.com/photos/modenov/53147599395/\" title=\"Kazan, Republic of Tatarstan\"><img src=\"https://live.staticflickr.com/65535/53147599395_74f57d3ed5_m.jpg\" width=\"240\" height=\"157\" alt=\"Kazan, Republic of Tatarstan\" /></a></p>\n\n<p>June in Kazan, Republic of Tatarstan, Russia</p><p><img src=\"https://live.staticflickr.com/65535/53147599395_74f57d3ed5_b.jpg\">\n",
-				"date_published": "2023-08-28T13:04:14+03:00",
-				"url": "https://alaborn.micro.blog/2023/08/28/130414.html"
 			},
 			{
 				"id": "http://alaborn.micro.blog/2023/08/28/130413.html",
