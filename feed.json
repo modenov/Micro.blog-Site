@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://alaborn.micro.blog/2026/06/30/apple-tv.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Досмотрел сегодня «Бухту вдов», которая недавно отгремела в Apple TV. Что могу сказать… Наверное, пока лучший сериал года лично для меня. Начал смотреть, вообще ничего не ожидая, но теперь очень жду второй сезон. Если хотите чего-то мистического на выходные, моя рекомендация.</p>\n",
+				"date_published": "2026-06-30T21:30:49+03:00",
+				"url": "https://alaborn.micro.blog/2026/06/30/apple-tv.html"
+			},
+			{
+				"id": "http://alaborn.micro.blog/2026/06/27/111333.html",
+				"title": "Мы все под ИИ",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Сайт The Atlantic недавно <a href=\"https://www.theatlantic.com/category/ai-watchdog/?after=MjAyNS0wNy0xNCAxMzoxOTo1Nnw2ODM1MjY%3D\">выкатил</a> форму, с помощью которой можно посмотреть, на каких датасетах обучались современные нейросети — здесь и книги, и видео, и музыка, и тексты песен.</p>\n<p>Я пробежался по именам своих любимых артистов и почти все они там оказались. Но больше всего меня удивило даже не это, а то, что в списках нашлись два МОИХ трека.</p>\n<div class=\"e2-text-picture\">\n<img src=\"https://modenov.ru/blog/pictures/IMG_0008.jpeg\" width=\"1640\" height=\"1391\" alt=\"AI Watchdog The Atlantic\" />\n</div>\n<p>Потрясающе.</p>\n",
+				"date_published": "2026-06-27T11:13:33+03:00",
+				"url": "https://alaborn.micro.blog/2026/06/27/111333.html"
+			},
+			{
 				"id": "http://alaborn.micro.blog/2026/06/27/the-atlantic.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
