@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://alaborn.micro.blog/2026/07/04/itunes-apple-music.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Я редко покупаю музыку в iTunes, но мимо нового альбома Мадонны пройти не смог — приобрёл в коллекцию. Одна из лучших танцевальных работ певицы, и точно в моём топ-5 альбомов года. Кстати, в тунце/Apple Music есть вот такое эксклюзивное издание, с другой обложкой и бонус треком.</p><p><img src=\"https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7kkz7quifbnujh2i4y76c5md/bafkreidqigpfwpyz5ydconkuzdd7uxpkm4vayixcwm3dvhzr5dnahduvui\" alt=\"\"></p>\n",
+				"date_published": "2026-07-04T21:25:49+03:00",
+				"url": "https://alaborn.micro.blog/2026/07/04/itunes-apple-music.html"
+			},
+			{
 				"id": "http://alaborn.micro.blog/2026/06/30/apple-tv.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -3994,7 +4002,7 @@
 				"id": "http://alaborn.micro.blog/2019/11/05/234318.html",
 				
 				"content_html": "<p>Привет!</p>\n<p>Как дела?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Привет!\r\n\r\nКак дела?\n\n<img src=\"uploads/2019/5309efdb34.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Привет!\r\n\r\nКак дела?\n\n<img src=\"uploads/2019/5309efdb34.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-05T23:43:18+03:00",
 				"url": "https://alaborn.micro.blog/2019/11/05/234318.html"
 			}
