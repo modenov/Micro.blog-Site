@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://alaborn.micro.blog/2026/07/04/winrar-zip.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Вижу людей, покупающих лицензию на WinRAR, и у меня возникает чисто праздное любопытство: что ими движет? Вот серьёзно, зачем? В мире существует богоподобный 7-Zip — шустрый как тварь, мощный и бесплатный. И это не говоря от его форках на любой вкус. В общем, очень странные дела</p>\n",
+				"date_published": "2026-07-04T23:15:38+03:00",
+				"url": "https://alaborn.micro.blog/2026/07/04/winrar-zip.html"
+			},
+			{
 				"id": "http://alaborn.micro.blog/2026/07/04/itunes-apple-music.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -4002,7 +4010,7 @@
 				"id": "http://alaborn.micro.blog/2019/11/05/234318.html",
 				
 				"content_html": "<p>Привет!</p>\n<p>Как дела?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Привет!\r\n\r\nКак дела?\n\n<img src=\"uploads/2019/5309efdb34.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Привет!\r\n\r\nКак дела?\n\n<img src=\"uploads/2019/5309efdb34.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-05T23:43:18+03:00",
 				"url": "https://alaborn.micro.blog/2019/11/05/234318.html"
 			}
