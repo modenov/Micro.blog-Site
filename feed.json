@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://alaborn.micro.blog/2026/08/14/111504.html",
+				
+				"content_html": "<p>Всё ещё лучшее солнечное затмение в моей жизни 🥰</p><p><img src=\"https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7kkz7quifbnujh2i4y76c5md/bafkreie3l5urxnujcl2ucwj47qvszwuzfa645up5haospce6blzcqlcz5a\" alt=\"\"></p>\n",
+				"content_text": "<p>Всё ещё лучшее солнечное затмение в моей жизни 🥰</p><p><img src=\"https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7kkz7quifbnujh2i4y76c5md/bafkreie3l5urxnujcl2ucwj47qvszwuzfa645up5haospce6blzcqlcz5a\" alt=\"\"></p>\n",
+				"date_published": "2026-08-14T11:15:04+03:00",
+				"url": "https://alaborn.micro.blog/2026/08/14/111504.html"
+			},
+			{
 				"id": "http://alaborn.micro.blog/2026/07/22/nero-burning-rom.html",
 				
 				"content_html": "<p>Никто:<br>Никто:<br>Никто:</p><p>Мой мозг в рандомный момент:<br>Помнишь Nero Burning ROM?</p>\n",
@@ -2933,14 +2941,6 @@
 				"content_text": "Кто вышел в бассейн, тот я\n",
 				"date_published": "2024-07-07T16:59:00+03:00",
 				"url": "https://alaborn.micro.blog/2024/07/07/165900.html"
-			},
-			{
-				"id": "http://alaborn.micro.blog/2024/07/07/165800.html",
-				
-				"content_html": "<p>Сейчас иду в бассейн, навстречу мне на улице бежит маленькая девочка, прямо передо мной останавливается и кричит: «Ого! Я думала, это гном!»</p>\n<p>Дорогой дневник… ✍🏻</p>\n",
-				"content_text": "Сейчас иду в бассейн, навстречу мне на улице бежит маленькая девочка, прямо передо мной останавливается и кричит: «Ого! Я думала, это гном!» \n\nДорогой дневник… ✍🏻\n",
-				"date_published": "2024-07-07T16:58:00+03:00",
-				"url": "https://alaborn.micro.blog/2024/07/07/165800.html"
 			},
 			{
 				"id": "http://alaborn.micro.blog/2024/07/06/windows.html",
